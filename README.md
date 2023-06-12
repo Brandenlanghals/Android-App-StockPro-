@@ -49,7 +49,7 @@ The app was developed using a combination of industry-standard techniques and be
 
 ## Innovation and Challenges
 
-- The most challenging part of this project was implementing the SMS feature for alerting the user when an inventory item is low. I originally tried to create a checkbox during initial account creation that would initiate the SMS permissions prompt but could not get it to function as intended. Taking a loss, I removed the checkbox and moved the SMS permissions to prompt the user only during their first time logging into the app. As it stands, after a successful login, the user will receive the prompt. One area of innovation was implementing real-time inventory updates.
+- The most challenging part of this project was implementing the SMS feature for alerting the user when an inventory item is low. I originally tried to create a checkbox during initial account creation that would initiate the SMS permissions prompt but could not get it to function as intended. Taking a loss, I removed the checkbox and moved the SMS permissions to prompt the user only during their first time logging into the app. As it stands, after a successful login, the user will receive the prompt. Once the prompt was appearing when I wanted it to, I was then able to set parameters for when to send an SMS message based on both the user permissions, and the set quatity which I considered to be low (less than 2).
 
 ## Successful Component Demonstration
 
