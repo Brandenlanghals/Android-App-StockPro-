@@ -1,5 +1,5 @@
 # StockPro+ Inventory Management App
-The StockPro+ Inventory Management App is designed to address the needs of businesses and organizations that require efficient management of their inventory. It provides a user-friendly interface to track and manage stock levels, perform inventory updates, and generate insightful reports.
+The StockPro+ Inventory Management App is designed to address the needs of businesses and organizations that require efficient management of their inventory. It provides a user-friendly interface to track and manage stock levels, and perform inventory updates.
 
 ## User Needs
 - The app aims to address the following user needs:
