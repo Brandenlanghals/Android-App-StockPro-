@@ -1,14 +1,14 @@
-StockPro+ Inventory Management App
+# StockPro+ Inventory Management App
 The StockPro+ Inventory Management App is designed to address the needs of businesses and organizations that require efficient management of their inventory. It provides a user-friendly interface to track and manage stock levels, perform inventory updates, and generate insightful reports.
 
-User Needs
-The app aims to address the following user needs:
+## User Needs
+- The app aims to address the following user needs:
 
-Inventory Tracking: Users need a centralized platform to monitor their inventory levels, including stock quantities, item details, and location information.
+- Inventory Tracking: Users need a centralized platform to monitor their inventory levels, including stock quantities, item details, and location information.
 
 Inventory Updates: Users require the ability to update inventory levels in real-time, including adding new items, removing sold items, and adjusting quantities. 
 
-Screens and Features
+## Screens and Features
 To support user needs and create a user-centered UI, the following screens and features were implemented in the app:
 
 Dashboard: Provides an overview of the inventory status, including total stock count, and low-stock alerts.
@@ -17,8 +17,7 @@ Inventory List: Displays a comprehensive list of all inventory items, showing de
 
 Add/Edit Item: Allows users to add new items to the inventory or modify existing item details, including name, and quantity.
 
-UI Design Approach
-
+## UI Design Approach
 The UI designs of the app were created with a user-centric approach in mind. The following principles guided the design process:
 
 Simplicity: The interface was designed to be intuitive and easy to navigate, with clear labels and minimal clutter, ensuring a smooth user experience.
